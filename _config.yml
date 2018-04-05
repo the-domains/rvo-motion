@@ -4,6 +4,7 @@ purpose: []
 github: true
 author:
   name: Alex Rivas
+  email: alejandro.rivas@rvomotion.com
 collections:
   - index:
       path: /
