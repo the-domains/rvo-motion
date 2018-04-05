@@ -1,0 +1,35 @@
+name: Rvo Motion
+analytics: {}
+purpose: []
+github: true
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.1630824
+color:
+  lightness: 0.6200717
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+  saturation: 0.5483871
+  brandStrength: 0.9175627
+  rhythmicContrast: 1
+content_rating:
+  adult: false
+typography_spectrum: 0.4749104
+opengraph: {}
+title: rvo social
